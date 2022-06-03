@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c_a",
+				"c_AudioSource"
+			],
+			[
+				"au",
+				"c_AudioSource"
+			],
+			[
+				"Ran",
+				"Range"
+			],
+			[
+				"range",
+				"rangeFinder"
+			],
+			[
+				"Tim",
+				"Time"
+			],
+			[
+				"Ti",
+				"Time"
+			],
+			[
+				"to",
+				"touch"
+			],
+			[
+				"else",
+				"elseif\tElse If"
+			],
+			[
+				"towe",
+				"towerLevel"
+			],
+			[
+				"Get",
+				"GetTowerLevel"
+			],
+			[
+				"r",
+				"r_damage"
+			],
+			[
+				"atta",
+				"attackDamage"
+			],
+			[
+				"tower",
+				"towerLevel"
+			],
+			[
+				"towr",
+				"towerLevel"
+			],
+			[
+				"attak",
+				"attackModifiers"
+			],
+			[
+				"aimi",
+				"aimingSpeedPerLevel"
+			],
+			[
+				"vec",
+				"projectileVelocity"
+			],
+			[
+				"velo",
+				"projectileVelocityPerLevel"
+			],
+			[
+				"aimin",
+				"aimingSpeedPerLevel"
+			],
+			[
+				"speed",
+				"moveSpeed"
+			],
+			[
+				"curr",
+				"currentLevel"
+			],
+			[
+				"hea",
+				"healthPerLevel"
+			],
+			[
+				"game",
+				"gamePaused"
+			],
+			[
+				"_i",
+				"_index"
+			],
+			[
+				"Time",
+				"deltaTime"
+			],
+			[
+				"trans",
+				"transitionSpeed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ca",
+				"cam"
+			],
+			[
+				"Aud",
+				"AudioSource"
+			],
+			[
+				"Audi",
+				"AudioClip"
+			],
+			[
+				"Load",
+				"LoadingScreen"
+			],
+			[
+				"e",
+				"elseif\tElse If"
+			],
+			[
+				"GetC",
+				"GetComponent"
+			],
+			[
+				"us",
+				"using"
+			],
+			[
+				"wave",
+				"waveDuration"
+			],
+			[
+				"tra",
+				"trailFX"
+			],
+			[
+				"explos",
+				"projectileExplosiveRadius"
+			],
+			[
+				"plat",
+				"basePlatform"
+			],
+			[
+				"GA",
+				"GameObject"
+			],
+			[
+				"g",
+				"GameObject"
+			],
+			[
+				"da",
+				"damage"
+			],
+			[
+				"dama",
+				"damageTimer"
+			],
+			[
+				"modi",
+				"attackModifiers"
+			],
+			[
+				"proje",
+				"projectileGuided"
+			],
+			[
+				"expl",
+				"projectileExplosive"
+			],
+			[
+				"explo",
+				"explosive"
+			],
+			[
+				"pro",
+				"projectileGuided"
+			],
+			[
+				"u",
+				"using"
+			],
+			[
+				"PlayerTake",
+				"PlayerTakeMoney"
+			],
+			[
+				"_",
+				"_i"
+			],
+			[
+				"btn",
+				"UIShopBtn"
+			],
+			[
+				"va",
+				"VALUE"
+			],
+			[
+				"explosi",
+				"projectileExplosiveRadius"
+			],
+			[
+				"attac",
+				"attackFlying"
+			],
+			[
+				"exp",
+				"GetExplosiveRadius"
+			],
+			[
+				"mult",
+				"multiShotDelay"
+			],
+			[
+				"Tower",
+				"TowerScript"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"att",
+				"attackRange"
+			],
+			[
+				"attack",
+				"attackRange"
+			],
+			[
+				"m",
+				"m_System"
+			],
+			[
+				"ph",
+				"projPhysics"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"cu",
+				"currentWave"
+			],
+			[
+				"curre",
+				"currentWave"
+			],
+			[
+				"Tar",
+				"targetWP"
+			],
+			[
+				"tar",
+				"targetWP"
+			],
+			[
+				"waveca",
+				"waveCallAuto"
+			],
+			[
+				"playermon",
+				"playerMoney"
+			],
+			[
+				"playermone",
+				"playerMoneyUI"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"co",
+				"collider"
+			],
+			[
+				"els",
+				"else\tElse"
+			],
+			[
+				"always",
+				"projectileAlwaysTarget"
+			],
+			[
+				"des",
+				"destroyFX"
+			],
+			[
+				"del",
+				"deltaTime"
+			],
+			[
+				"first",
+				"firstWaveCalled"
+			],
+			[
+				"firs",
+				"firstWaveCalled"
+			],
+			[
+				"pla",
+				"playerHealth"
+			],
+			[
+				"playr",
+				"playerStartingHealth"
+			],
+			[
+				"tur",
+				"TurretBarrel"
+			],
+			[
+				"Turre",
+				"TurretBarrel"
+			],
+			[
+				"turr",
+				"TurretBase"
+			],
+			[
+				"Turr",
+				"TurretBarrel"
+			],
+			[
+				"targe",
+				"targetsInRange"
+			],
+			[
+				"ta",
+				"targetsInRange"
+			],
+			[
+				"cur",
+				"currentPath"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"enem",
+				"enemyTypes"
+			],
+			[
+				"move",
+				"moveSpeed"
+			],
+			[
+				"ACT_DOTA_CAST",
+				"ACT_DOTA_CAST_ABILITY_4"
+			],
+			[
+				"scri",
+				"ScriptFile"
+			],
+			[
+				"base",
+				"BaseClass"
+			],
+			[
+				"damagetype",
+				"damageTypePhysical"
+			],
+			[
+				"flagnone",
+				"DOTA_UNIT_TARGET_FLAG_NONE"
+			],
+			[
+				"unitflag",
+				"unitTargetFlagDead"
+			],
+			[
+				"DAMA",
+				"DAMAGE_TYPE_PHYSICAL"
+			],
+			[
+				"GetO",
+				"GetOwner"
+			],
+			[
+				"GetOwn",
+				"GetOwnerEntity"
+			],
+			[
+				"print",
+				"PrintTable"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"HasA",
+				"HasAbility"
+			],
+			[
+				"comet",
+				"comet_count"
+			],
+			[
+				"GetSpe",
+				"GetSpecialValueFor"
+			],
+			[
+				"for",
+				"for\tfor i=1,10"
+			],
+			[
+				"GetTeamN",
+				"GetTeamNumber"
+			],
+			[
+				"FindUnits",
+				"FindUnitsInRadius"
+			],
+			[
+				"behavior",
+				"abilityBehaviorAura"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"C#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"kv",
+				"Set Syntax: Dota KV"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/EnemyPortal.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/GameLogic.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/ClickDragCamera.cs",
+		"/C/Users/Ozelo/BugTD/Assets/DisplayModelManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/LoadingScreenText.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/JukeBoxScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/GameObjectFinder.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/SettingsManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/SceneController.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Button/ButtonManagerBasicWithIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerWeaponScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/EnemyScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/PlatformScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/BulletScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/Modifiers/ModifierDamagePerSecond.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Button/ButtonManagerBasicIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern",
+		"/C/Users/Ozelo/BugTD/UI",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Button/ButtonManagerBasicIconEditor.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Button/ButtonManagerIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/SceneManagement.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/MainMenuLogic.cs",
+		"/C/Users/Ozelo/BugTD/Assets/FastIK/Scripts/FastIK/FastIKFabric.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Notification/NotificationManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/References.cs",
+		"/C/Users/Ozelo/BugTD/Assets/DisplayModelShowcase.cs",
+		"/C/Users/Ozelo/MontaSala/Assets/Scripts/ClickDragCamera.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Notification/NotificationManagerEditor.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Notification/NotificationManagerEditor.cs",
+		"/C/Users/Ozelo/BugTD/Assets/TakeScreenshot.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/UI",
+		"/C/Users/Ozelo/BugTD/Manager/UIManagerProgressBar.cs",
+		"/C/Users/Ozelo/BugTD/Assets/FastIK/Scripts/Sample/SampleProcedualAnimation.cs",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/steam_appid.txt",
+		"/C/Users/Ozelo/Downloads/Adobe Premiere Pro CS6 6.0.0 LS7 Multilanguage [ChingLiu]/HowToInstall.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TextTurretValue.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerWeaponMissileScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/QuickOutline/Scripts/Outline.cs",
+		"/C/Users/Ozelo/BugTD/Assets/CameraOrbit.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Resource/loading_phrases.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Spin.cs",
+		"/C/Users/Ozelo/BugTD/Assets/WireframeRenderer/Script/StaticWireframeRenderer.cs",
+		"/C/Users/Ozelo/BugTD/Assets/timedDestroy.cs",
+		"/C/Users/Ozelo/BugTD/ProjectSettings/ProjectSettings.asset",
+		"/C/Users/Ozelo/BugTD/ProjectSettings/ProjectVersion.txt",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_c4.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_rpg7.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_paw20.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_chinalake.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_m79.lua",
+		"/E/gmod_server2/garrysmod/gamemodes/terrortown/entities/weapons/weapon_ttt_c4.lua",
+		"/E/gmod_server2/garrysmod/cfg/mapcycle.txt",
+		"/E/gmod_server2/garrysmod/cfg/server.cfg",
+		"/E/gmod_server1/garrysmod/cfg/server.cfg",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/weapons/tfa_cso2_crossbow.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/weapons/tfa_cso2_awp_ss.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/entities/tfa_cso2_pg_ent.lua",
+		"/E/gmod_server2/garrysmod/addons/415143062_tfa_base_reduxed/lua/weapons/tfa_gun_base/shared.lua",
+		"/E/gmod_server2/garrysmod/addons/415143062_tfa_base_reduxed/lua/weapons/tfa_sword_advanced_base/shared.lua",
+		"/E/SteamLibrary/steamapps/common/GarrysMod/garrysmod/cache/lua/00b4bdba3f6b3e6a8bc8758e6e53faa8207a0070.lua",
+		"/E/gmod_server1/garrysmod/addons/prop_hunt_enhanced_official_v16_1754658833/gamemodes/fretta/fretta.txt",
+		"/E/gmod_server2/garrysmod/cfg/mount.cfg",
+		"/E/gmod_server1/garrysmod/cfg/mount.cfg",
+		"/C/Users/Ozelo/Downloads/DOOM.Eternal-NODRM/RARBG.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerBaseScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/ToweBaseScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TextShadow.cs",
+		"/C/Program",
+		"/C/Users/Ozelo/BugTD/Files/Unity/Hub/Editor/2019.3.3f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs",
+		"/C/xampp/htdocs/php/novo_cliente.php",
+		"/C/xampp/htdocs/php/make_bkp.php",
+		"/C/xampp/htdocs/php/insert_consulta.php",
+		"/C/xampp/htdocs/php/insert_cliente.php",
+		"/C/xampp/htdocs/php/delete_consulta.php",
+		"/C/xampp/htdocs/php/delete_cliente.php",
+		"/C/xampp/htdocs/php/corrigir_consulta.php",
+		"/C/xampp/htdocs/php/corrigir_cliente.php",
+		"/C/xampp/htdocs/php/cadastrar_consulta.php",
+		"/C/xampp/htdocs/php/alter_consulta.php",
+		"/C/xampp/htdocs/php/alter_cliente.php",
+		"/C/xampp/htdocs/php/visualizar_consulta_print.php",
+		"/C/xampp/htdocs/php/visualizar_consulta.php",
+		"/C/xampp/htdocs/php/pesquisar_clientes.php",
+		"/C/xampp/htdocs/php/visualizar_consultas.php",
+		"/C/Users/Ozelo/BugTD/Assets/EnemyPortal.cs",
+		"/C/Users/Ozelo/BugTD/BugTD.sublime-project",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_comet_storm_thinker.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_blizzard_thinker.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/comet_storm.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_abilities_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/addon_game_mode.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/resource/addon_english.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_units_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_heroes_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/saurfang_execute.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_saurfang_cleave.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/cleave.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/deep_wounds.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_saurfang_execute.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_deep_wounds.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/portraits.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_deep_wounds_bleed.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_deep_wounds_aura.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_bladestorm.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/util.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/bladestorm.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/blizzard.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_frost_nova.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/frozen_orb.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_frozen_orb_thinker.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_frozen_orb_slow.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/timers.lua",
+		"/C/Users/Ozelo/Downloads/Need.for.Speed.Heat.MULTi7-ElAmigos/SKIDROWRELOADED.COM.txt",
+		"/C/Games/Need For Speed Heat/codex.cfg",
+		"/C/Games/Need For Speed Heat/Readme.txt",
+		"/C/Users/Ozelo/Downloads/NFSHeatCrack/Readme.txt",
+		"/C/Users/Ozelo/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/MS Office 2019 Pro Plus Retail X86 X64  MULTi-22 OCT 2018 {Gen2}.txt",
+		"/C/Users/Ozelo/Downloads/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/READ ME.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_blizzard_slow.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_blizzard.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/frost_nova.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_brilliance_aura_effect.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/aura.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_brilliance_aura.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/soundevents/game_sounds_heroes/game_sounds_crystalmaiden.vsndevts",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/resource/flash3/custom_ui.txt",
+		"/C/Users/Ozelo/Downloads/WhatsApp_Chat_with_Ligia.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SettingsManager.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

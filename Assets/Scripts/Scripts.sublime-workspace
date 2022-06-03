@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"explosiveRadius"
+			],
+			[
+				"_",
+				"_obj"
+			],
+			[
+				"cure",
+				"currentWave"
+			],
+			[
+				"Hi",
+				"HiScore"
+			],
+			[
+				"target",
+				"targetGround"
+			],
+			[
+				"targ",
+				"targetsInRange"
+			],
+			[
+				"Ene",
+				"EnemyScript"
+			],
+			[
+				"for",
+				"foreach\tForEach"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"Get",
+				"GetComponent"
+			],
+			[
+				"tar",
+				"targetScale"
+			],
+			[
+				"else",
+				"else\tElse"
+			],
+			[
+				"hea",
+				"health"
+			],
+			[
+				"c_a",
+				"c_AudioSource"
+			],
+			[
+				"au",
+				"c_AudioSource"
+			],
+			[
+				"Ran",
+				"Range"
+			],
+			[
+				"range",
+				"rangeFinder"
+			],
+			[
+				"Tim",
+				"Time"
+			],
+			[
+				"Ti",
+				"Time"
+			],
+			[
+				"to",
+				"touch"
+			],
+			[
+				"towe",
+				"towerLevel"
+			],
+			[
+				"r",
+				"r_damage"
+			],
+			[
+				"atta",
+				"attackDamage"
+			],
+			[
+				"tower",
+				"towerLevel"
+			],
+			[
+				"towr",
+				"towerLevel"
+			],
+			[
+				"attak",
+				"attackModifiers"
+			],
+			[
+				"aimi",
+				"aimingSpeedPerLevel"
+			],
+			[
+				"vec",
+				"projectileVelocity"
+			],
+			[
+				"velo",
+				"projectileVelocityPerLevel"
+			],
+			[
+				"aimin",
+				"aimingSpeedPerLevel"
+			],
+			[
+				"speed",
+				"moveSpeed"
+			],
+			[
+				"curr",
+				"currentLevel"
+			],
+			[
+				"_i",
+				"_index"
+			],
+			[
+				"Time",
+				"deltaTime"
+			],
+			[
+				"trans",
+				"transitionSpeed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ca",
+				"cam"
+			],
+			[
+				"Aud",
+				"AudioSource"
+			],
+			[
+				"Audi",
+				"AudioClip"
+			],
+			[
+				"Load",
+				"LoadingScreen"
+			],
+			[
+				"e",
+				"elseif\tElse If"
+			],
+			[
+				"GetC",
+				"GetComponent"
+			],
+			[
+				"us",
+				"using"
+			],
+			[
+				"wave",
+				"waveDuration"
+			],
+			[
+				"tra",
+				"trailFX"
+			],
+			[
+				"explos",
+				"projectileExplosiveRadius"
+			],
+			[
+				"plat",
+				"basePlatform"
+			],
+			[
+				"GA",
+				"GameObject"
+			],
+			[
+				"g",
+				"GameObject"
+			],
+			[
+				"da",
+				"damage"
+			],
+			[
+				"dama",
+				"damageTimer"
+			],
+			[
+				"modi",
+				"attackModifiers"
+			],
+			[
+				"proje",
+				"projectileGuided"
+			],
+			[
+				"expl",
+				"projectileExplosive"
+			],
+			[
+				"explo",
+				"explosive"
+			],
+			[
+				"pro",
+				"projectileGuided"
+			],
+			[
+				"u",
+				"using"
+			],
+			[
+				"PlayerTake",
+				"PlayerTakeMoney"
+			],
+			[
+				"btn",
+				"UIShopBtn"
+			],
+			[
+				"va",
+				"VALUE"
+			],
+			[
+				"explosi",
+				"projectileExplosiveRadius"
+			],
+			[
+				"attac",
+				"attackFlying"
+			],
+			[
+				"exp",
+				"GetExplosiveRadius"
+			],
+			[
+				"mult",
+				"multiShotDelay"
+			],
+			[
+				"Tower",
+				"TowerScript"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"att",
+				"attackRange"
+			],
+			[
+				"attack",
+				"attackRange"
+			],
+			[
+				"m",
+				"m_System"
+			],
+			[
+				"ph",
+				"projPhysics"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"cu",
+				"currentWave"
+			],
+			[
+				"curre",
+				"currentWave"
+			],
+			[
+				"Tar",
+				"targetWP"
+			],
+			[
+				"waveca",
+				"waveCallAuto"
+			],
+			[
+				"playermon",
+				"playerMoney"
+			],
+			[
+				"playermone",
+				"playerMoneyUI"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"co",
+				"collider"
+			],
+			[
+				"els",
+				"else\tElse"
+			],
+			[
+				"always",
+				"projectileAlwaysTarget"
+			],
+			[
+				"des",
+				"destroyFX"
+			],
+			[
+				"del",
+				"deltaTime"
+			],
+			[
+				"first",
+				"firstWaveCalled"
+			],
+			[
+				"firs",
+				"firstWaveCalled"
+			],
+			[
+				"pla",
+				"playerHealth"
+			],
+			[
+				"playr",
+				"playerStartingHealth"
+			],
+			[
+				"tur",
+				"TurretBarrel"
+			],
+			[
+				"Turre",
+				"TurretBarrel"
+			],
+			[
+				"turr",
+				"TurretBase"
+			],
+			[
+				"Turr",
+				"TurretBarrel"
+			],
+			[
+				"targe",
+				"targetsInRange"
+			],
+			[
+				"ta",
+				"targetsInRange"
+			],
+			[
+				"cur",
+				"currentPath"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"enem",
+				"enemyTypes"
+			],
+			[
+				"move",
+				"moveSpeed"
+			],
+			[
+				"ACT_DOTA_CAST",
+				"ACT_DOTA_CAST_ABILITY_4"
+			],
+			[
+				"scri",
+				"ScriptFile"
+			],
+			[
+				"base",
+				"BaseClass"
+			],
+			[
+				"damagetype",
+				"damageTypePhysical"
+			],
+			[
+				"flagnone",
+				"DOTA_UNIT_TARGET_FLAG_NONE"
+			],
+			[
+				"unitflag",
+				"unitTargetFlagDead"
+			],
+			[
+				"DAMA",
+				"DAMAGE_TYPE_PHYSICAL"
+			],
+			[
+				"GetO",
+				"GetOwner"
+			],
+			[
+				"GetOwn",
+				"GetOwnerEntity"
+			],
+			[
+				"print",
+				"PrintTable"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"HasA",
+				"HasAbility"
+			],
+			[
+				"comet",
+				"comet_count"
+			],
+			[
+				"GetSpe",
+				"GetSpecialValueFor"
+			],
+			[
+				"GetTeamN",
+				"GetTeamNumber"
+			],
+			[
+				"FindUnits",
+				"FindUnitsInRadius"
+			],
+			[
+				"behavior",
+				"abilityBehaviorAura"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Modifiers/ModifierDamagePerSecond.cs",
+			"settings":
+			{
+				"buffer_size": 1729,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "EnemyScript.cs",
+			"settings":
+			{
+				"buffer_size": 4289,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BulletScript.cs",
+			"settings":
+			{
+				"buffer_size": 5351,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ClickDragCamera.cs",
+			"settings":
+			{
+				"buffer_size": 5232,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TowerWeaponScript.cs",
+			"settings":
+			{
+				"buffer_size": 4130,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Ozelo/OneDrive/BugTD/Assets/UpgradePanel_Anims.cs",
+			"settings":
+			{
+				"buffer_size": 392,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TowerScript.cs",
+			"settings":
+			{
+				"buffer_size": 6469,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kv",
+				"Set Syntax: Dota KV"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"C#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/UpgradePanel_Anims.cs",
+		"/C/Users/Ozelo/Documents/08007249200",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/particles/abaddon_death_coil_d.vpcf_c",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/npc/neutral_items.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/npc/npc_abilities_override.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/npc/npc_abilities_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/readme.md",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/towers.kv",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/whatsup.kv",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/bans.kv",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/banned.kv",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/abilitydeps.kv",
+		"/E/SteamLibrary/steamapps/workshop/content/570/786348190/publish_data.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/shops.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/kv/abilities.kv",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/custom_net_tables.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/legends_of_dota_extract/scripts/custom_events.txt",
+		"/C/Program Files/Nem's Tools/GCFScape/Readme.txt",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/ScoreText.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/GameLogic.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/Modifiers/ModifierDamagePerSecond.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/TowerWeaponScript.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/TowerScript.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/EnemyScript.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/ClickDragCamera.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Library/PackageCache/com.unity.render-pipelines.high-definition@7.0.1/Runtime/Core/CoreResources/GPUCopy.cs",
+		"/C/Users/Ozelo/OneDrive/BugTD/Assets/Scripts/Scripts.sublime-project",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/EnemyPortal.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/GameLogic.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/ClickDragCamera.cs",
+		"/C/Users/Ozelo/BugTD/Assets/DisplayModelManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/LoadingScreenText.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/JukeBoxScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/GameObjectFinder.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/SettingsManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/SceneController.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Button/ButtonManagerBasicWithIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerWeaponScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/EnemyScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/PlatformScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/BulletScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/Modifiers/ModifierDamagePerSecond.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Button/ButtonManagerBasicIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern",
+		"/C/Users/Ozelo/BugTD/UI",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Button/ButtonManagerBasicIconEditor.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Button/ButtonManagerIcon.cs",
+		"/C/Users/Ozelo/BugTD/Assets/SceneManagement.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/MainMenuLogic.cs",
+		"/C/Users/Ozelo/BugTD/Assets/FastIK/Scripts/FastIK/FastIKFabric.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Notification/NotificationManager.cs",
+		"/C/Users/Ozelo/BugTD/Assets/References.cs",
+		"/C/Users/Ozelo/BugTD/Assets/DisplayModelShowcase.cs",
+		"/C/Users/Ozelo/MontaSala/Assets/Scripts/ClickDragCamera.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Modern UI Pack/Scripts/Notification/NotificationManagerEditor.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/Notification/NotificationManagerEditor.cs",
+		"/C/Users/Ozelo/BugTD/Assets/TakeScreenshot.cs",
+		"/C/Users/Ozelo/BugTD/Pack/Scripts/UI",
+		"/C/Users/Ozelo/BugTD/Manager/UIManagerProgressBar.cs",
+		"/C/Users/Ozelo/BugTD/Assets/FastIK/Scripts/Sample/SampleProcedualAnimation.cs",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/steam_appid.txt",
+		"/C/Users/Ozelo/Downloads/Adobe Premiere Pro CS6 6.0.0 LS7 Multilanguage [ChingLiu]/HowToInstall.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TextTurretValue.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerWeaponMissileScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/QuickOutline/Scripts/Outline.cs",
+		"/C/Users/Ozelo/BugTD/Assets/CameraOrbit.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Resource/loading_phrases.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Spin.cs",
+		"/C/Users/Ozelo/BugTD/Assets/WireframeRenderer/Script/StaticWireframeRenderer.cs",
+		"/C/Users/Ozelo/BugTD/Assets/timedDestroy.cs",
+		"/C/Users/Ozelo/BugTD/ProjectSettings/ProjectSettings.asset",
+		"/C/Users/Ozelo/BugTD/ProjectSettings/ProjectVersion.txt",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_c4.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_rpg7.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_paw20.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_chinalake.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_equipment/lua/weapons/tfa_cso2_m79.lua",
+		"/E/gmod_server2/garrysmod/gamemodes/terrortown/entities/weapons/weapon_ttt_c4.lua",
+		"/E/gmod_server2/garrysmod/cfg/mapcycle.txt",
+		"/E/gmod_server2/garrysmod/cfg/server.cfg",
+		"/E/gmod_server1/garrysmod/cfg/server.cfg",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/weapons/tfa_cso2_crossbow.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/weapons/tfa_cso2_awp_ss.lua",
+		"/E/gmod_server2/garrysmod/addons/tfa_cso2_ttt_regular_weapons/lua/entities/tfa_cso2_pg_ent.lua",
+		"/E/gmod_server2/garrysmod/addons/415143062_tfa_base_reduxed/lua/weapons/tfa_gun_base/shared.lua",
+		"/E/gmod_server2/garrysmod/addons/415143062_tfa_base_reduxed/lua/weapons/tfa_sword_advanced_base/shared.lua",
+		"/E/SteamLibrary/steamapps/common/GarrysMod/garrysmod/cache/lua/00b4bdba3f6b3e6a8bc8758e6e53faa8207a0070.lua",
+		"/E/gmod_server1/garrysmod/addons/prop_hunt_enhanced_official_v16_1754658833/gamemodes/fretta/fretta.txt",
+		"/E/gmod_server2/garrysmod/cfg/mount.cfg",
+		"/E/gmod_server1/garrysmod/cfg/mount.cfg",
+		"/C/Users/Ozelo/Downloads/DOOM.Eternal-NODRM/RARBG.txt",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TowerBaseScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/ToweBaseScript.cs",
+		"/C/Users/Ozelo/BugTD/Assets/Scripts/TextShadow.cs",
+		"/C/Program",
+		"/C/Users/Ozelo/BugTD/Files/Unity/Hub/Editor/2019.3.3f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs",
+		"/C/xampp/htdocs/php/novo_cliente.php",
+		"/C/xampp/htdocs/php/make_bkp.php",
+		"/C/xampp/htdocs/php/insert_consulta.php",
+		"/C/xampp/htdocs/php/insert_cliente.php",
+		"/C/xampp/htdocs/php/delete_consulta.php",
+		"/C/xampp/htdocs/php/delete_cliente.php",
+		"/C/xampp/htdocs/php/corrigir_consulta.php",
+		"/C/xampp/htdocs/php/corrigir_cliente.php",
+		"/C/xampp/htdocs/php/cadastrar_consulta.php",
+		"/C/xampp/htdocs/php/alter_consulta.php",
+		"/C/xampp/htdocs/php/alter_cliente.php",
+		"/C/xampp/htdocs/php/visualizar_consulta_print.php",
+		"/C/xampp/htdocs/php/visualizar_consulta.php",
+		"/C/xampp/htdocs/php/pesquisar_clientes.php",
+		"/C/xampp/htdocs/php/visualizar_consultas.php",
+		"/C/Users/Ozelo/BugTD/Assets/EnemyPortal.cs",
+		"/C/Users/Ozelo/BugTD/BugTD.sublime-project",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_comet_storm_thinker.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/modifier_jaina_blizzard_thinker.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/jaina/comet_storm.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_abilities_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/addon_game_mode.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/resource/addon_english.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_units_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/npc/npc_heroes_custom.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/saurfang_execute.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_saurfang_cleave.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/cleave.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/deep_wounds.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_saurfang_execute.lua",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/game/dota_addons/d2wc/scripts/vscripts/lua_abilities/saurfang/modifier_deep_wounds.lua"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"destroyFX",
+			"GetCurrentWave",
+			"targettingRange",
+			"TowerScript",
+			"offset",
+			"radius",
+			"pointg",
+			"UpdateUI",
+			"TurretCanvas",
+			"gameOverUI",
+			"loadingScreenUI",
+			"mainCanvasUI",
+			"waveCallAutoUI",
+			"cam.",
+			"cam",
+			"playerHealthUI",
+			"playerMoneyUI",
+			"levelWaveUI",
+			"descr",
+			"interactable",
+			"fillAmount",
+			"paused",
+			"waveSpawnDelay",
+			"waveCallTimer",
+			"waveDurationTimer",
+			"shopItems",
+			"UIShopBtn",
+			"UIUpgradeBtn",
+			"buyMortarUI",
+			"buyMGUI",
+			"turretPanelUI",
+			"ownerTurret",
+			"_i",
+			"GetChildren",
+			"TowerScript",
+			"parent",
+			"explosive",
+			"releaseFX",
+			"GraphicsAPI",
+			"api",
+			"playerPanelUI",
+			"attackSpeed",
+			"children",
+			"GetPlatformBuilt",
+			"currentTarget",
+			"muzzle",
+			"distance",
+			"ttt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rateOfFire"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Modifiers/ModifierDamagePerSecond.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1172,
+								1172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "EnemyScript.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1698,
+								1698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "BulletScript.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3489,
+								3489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ClickDragCamera.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "TowerWeaponScript.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2383,
+								2383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Ozelo/OneDrive/BugTD/Assets/UpgradePanel_Anims.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "TowerScript.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1974.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Scripts.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
